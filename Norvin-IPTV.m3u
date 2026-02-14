@@ -1,1 +1,8 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/do.xml,https://iptv-org.github.io/epg/guides/us.xml"
+
+#EXTINF:-1 group-title="Norvin IPTV | República Dominicana",Canales RD
+https://iptv-org.github.io/iptv/countries/do.m3u
+
+#EXTINF:-1 group-title="Norvin IPTV | Estados Unidos",Canales USA
+https://iptv-org.github.io/iptv/countries/us.m3u
 
