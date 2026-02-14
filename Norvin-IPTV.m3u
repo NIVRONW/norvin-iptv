@@ -1,8 +1,37 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/do.xml,https://iptv-org.github.io/epg/guides/us.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/do.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/es.xml"
 
-#EXTINF:-1 group-title="Norvin IPTV | República Dominicana",Canales RD
+# ===============================
+# NORVIN IPTV - FREE LEGAL
+# ===============================
+
+# ---- REPUBLICA DOMINICANA ----
+#EXTINF:-1 group-title="Norvin IPTV | RD",Lista RD Oficial
 https://iptv-org.github.io/iptv/countries/do.m3u
 
-#EXTINF:-1 group-title="Norvin IPTV | Estados Unidos",Canales USA
+# ---- ESTADOS UNIDOS ----
+#EXTINF:-1 group-title="Norvin IPTV | USA",Lista USA Oficial
 https://iptv-org.github.io/iptv/countries/us.m3u
 
+# ---- ESPAÑOL GLOBAL ----
+#EXTINF:-1 group-title="Norvin IPTV | Español Global",Lista Español
+https://iptv-org.github.io/iptv/languages/es.m3u
+
+# ---- MOVIES ----
+#EXTINF:-1 group-title="Norvin IPTV | Movies",Lista Movies
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+# ---- NEWS ----
+#EXTINF:-1 group-title="Norvin IPTV | News",Lista News
+https://iptv-org.github.io/iptv/categories/news.m3u
+
+# ---- MUSIC ----
+#EXTINF:-1 group-title="Norvin IPTV | Music",Lista Music
+https://iptv-org.github.io/iptv/categories/music.m3u
+
+# ---- KIDS ----
+#EXTINF:-1 group-title="Norvin IPTV | Kids",Lista Kids
+https://iptv-org.github.io/iptv/categories/kids.m3u
+
+# ---- ADULT (PUBLIC SOURCES ONLY) ----
+#EXTINF:-1 group-title="Norvin IPTV | Adult (Public)",Lista Adult
+https://iptv-org.github.io/iptv/categories/adult.m3u
