@@ -1,0 +1,22 @@
+#EXTM3U
+# Norvin IPTV | Filtrado: solo funcionales (según tu red)
+# --- 🇩🇴 República Dominicana | 📰 Noticias ---
+
+# --- 🇩🇴 República Dominicana | ⚽ Deportes ---
+# --- GENERATED: VOD ---
+#EXTINF:-1 tvg-id="" tvg-name="Suddenly (1954)" group-title="VOD - MOVIES",Suddenly (1954)
+https://archive.org/download/publicmovies212/Suddenly.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The 39 Steps (1935)" group-title="VOD - MOVIES",The 39 Steps (1935)
+https://archive.org/download/publicmovies212/The_39_Steps.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The House on Haunted Hill (1959)" group-title="VOD - MOVIES",The House on Haunted Hill (1959)
+https://archive.org/download/publicmovies212/The_House_on_Haunted_Hill.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Detour (1945)" group-title="VOD - MOVIES",Detour (1945)
+https://archive.org/download/publicmovies212/Detour.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Night of the Living Dead (1968)" group-title="VOD - MOVIES",Night of the Living Dead (1968)
+https://archive.org/download/publicmovies212/Night_of_the_Living_Dead.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Adventures of Kit Carson - S02E13" group-title="VOD - SERIES",The Adventures of Kit Carson - S02E13
+https://archive.org/download/theadventuresofkitcarson/s02e13.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Adventures of Kit Carson - S02E15" group-title="VOD - SERIES",The Adventures of Kit Carson - S02E15
+https://archive.org/download/theadventuresofkitcarson/s02e15.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Adventures of Kit Carson - S02E16" group-title="VOD - SERIES",The Adventures of Kit Carson - S02E16
+https://archive.org/download/theadventuresofkitcarson/s02e16.mp4
